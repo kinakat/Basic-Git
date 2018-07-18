@@ -1,0 +1,4 @@
+### Xcode Patch ###
+*.xcodeproj
+*.xcodeproj/
+*.DS_Store
